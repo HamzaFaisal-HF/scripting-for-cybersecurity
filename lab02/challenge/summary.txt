@@ -1,0 +1,6 @@
+Cybersecurity CLI Report
+user=$(hostname)
+host=$(whoami)
+directory=$(pwd)
+python=$(env | grep USER)
+python_count=$(ls /usr/bin | grep python | wc -l)

@@ -1,0 +1,15 @@
+echo
+whoami
+hostname
+pwd
+which
+env
+grep
+wc
+>
+>>
+$
+$()
+|
+
+
