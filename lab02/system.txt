@@ -1,0 +1,4 @@
+HamzaFaisal-HF
+codespace
+18/09/2026
+/workspaces/scripting-for-cybersecurity/lab02
