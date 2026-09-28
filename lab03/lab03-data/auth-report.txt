@@ -2,7 +2,7 @@ Authentication Analysis
 
 Total Events: 184
 Filed Password: 184
-Accepted password: 184
+Accepted password: 57
 Invalid User: 184
 Invalid User: 0
 Failed Login sources:      37 198.51.100.24
